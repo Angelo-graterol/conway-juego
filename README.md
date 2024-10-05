@@ -1,1 +1,3 @@
 ## Aquí dejarás tu documentación, por qué decidiste realizar esas optimización y cómo resolvistes los ejercicios de lógica...
+
+cambie el numero magico 5 por tablero.length
